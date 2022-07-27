@@ -17,7 +17,7 @@
 			"extensions": [
 				"ms-azuretools.vscode-azurefunctions",
 				"dbaeumer.vscode-eslint",
-				"ms-vscode.live-server"
+				"ritwickdey.liveserver"
 			]
 		}
 	},
